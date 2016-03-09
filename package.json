@@ -1,0 +1,32 @@
+{
+  "name": "underscore-init",
+  "version": "1.0.0",
+  "description": "Underscore is added gulp, bower, twitter bootstrap sass",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/streetcoder/underscore-init.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "underscore.me",
+    "gulp",
+    "bower",
+    "twitter",
+    "bootstrap",
+    "sass"
+  ],
+  "author": "streetcoder",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-flatten": "^0.2.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "run-sequence": "^1.1.5"
+  }
+}
